@@ -1,0 +1,16 @@
+target/
+**/target/
+logs/
+**/logs/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IDEs ###
+.idea
+*.iws
+*.iml
+*.ipr
+/nbproject/private/
+.vscode/
+.settings/
+.classpath
+.project
